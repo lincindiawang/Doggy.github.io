@@ -32,7 +32,21 @@
 
 ### 4.哈士奇
 
-![Image]()
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_1d.jpg)
+
+哈士奇快速拉動雪橇的風格與其他雪橇犬不同，所以，『哈士奇』為北方雪橇形的總稱。
+
+精力充沛、行動敏捷。
+
+有厚厚的雙層皮毛，顏色為黑色、灰色、銅紅、白色。
+
+### 5.鬥牛犬
+
+![Image](
+
+又分為英鬥、法鬥。
+
+英鬥的耳朵為垂耳；反之，法鬥的為立直的。
 ```markdown
 Syntax highlighted code block
 
