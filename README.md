@@ -42,7 +42,7 @@
 
 ### 5.鬥牛犬
 
-![Image](https://Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_1a.jpg)
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_1a.jpg)
 
 又分為英鬥、法鬥。
 
