@@ -2,7 +2,7 @@
 
 1.黃金獵犬
 
-![Image](https://github.com/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg )
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg)
 
 為大型獵犬，個性溫馴聽話。
 
@@ -11,6 +11,14 @@
 2.拉布拉多
 
 ![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_16.jpg)
+
+又稱為拉布拉多尋回犬。
+
+屬於中大型犬類。
+
+個性溫和、活潑，不具攻擊性。
+
+為最適合導盲犬及工作犬的種類。
 ```markdown
 Syntax highlighted code block
 
