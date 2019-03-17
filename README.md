@@ -5,11 +5,12 @@
 ![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg)
 
 為大型獵犬，個性溫馴聽話。
+
 與拉布拉多一樣，為常見的導盲犬種類。
 
 2.拉布拉多
 
-![Image]()
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_16.jpg)
 ```markdown
 Syntax highlighted code block
 
