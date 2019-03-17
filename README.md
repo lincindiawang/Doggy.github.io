@@ -2,7 +2,7 @@
 
 1. 黃金獵犬
 
-[https://www.facebook.com/photo.php?fbid=2106949786009179&set=pcb.2106950049342486&type=3&theater]
+[Image](https://www.facebook.com/photo.php?fbid=2106949786009179&set=pcb.2106950049342486&type=3&theater)
 
 ### Markdown
 
