@@ -1,13 +1,15 @@
 ## 狗狗的種類
 
-1. 黃金獵犬
+1.黃金獵犬
 
 ![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg)
 
-### Markdown
+為大型獵犬，個性溫馴聽話。
+與拉布拉多一樣，為常見的導盲犬種類。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.拉布拉多
 
+![Image]()
 ```markdown
 Syntax highlighted code block
 
