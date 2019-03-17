@@ -1,4 +1,4 @@
-## 幾隻Doggies的種類
+# 幾隻Doggies的種類
 
 ### 1.黃金獵犬
 
@@ -21,6 +21,16 @@
 為最適合導盲犬及工作犬的種類。
 
 ### 3.柯基犬
+
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_mini_18.jpg)
+
+來自英國皇家的威爾斯柯基犬。
+
+早期為牧羊犬的一種。
+
+現今，因為短腿的外型，以及可愛的外表，成為熱門的寵物品種。
+
+### 4.哈士奇
 
 ![Image]()
 ```markdown
