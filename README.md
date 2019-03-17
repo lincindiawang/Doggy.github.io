@@ -50,7 +50,7 @@
 
 ### 6.柴犬
 
-![Image]()
+![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_mini_13.jpg)
 
 來至於日本。
 
