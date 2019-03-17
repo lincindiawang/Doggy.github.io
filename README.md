@@ -1,6 +1,6 @@
-## 狗狗的種類
+## 幾隻Doggies的種類
 
-1.黃金獵犬
+###1.黃金獵犬
 
 ![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg)
 
@@ -8,7 +8,7 @@
 
 與拉布拉多一樣，為常見的導盲犬種類。
 
-2.拉布拉多
+###2.拉布拉多
 
 ![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_16.jpg)
 
@@ -19,6 +19,10 @@
 個性溫和、活潑，不具攻擊性。
 
 為最適合導盲犬及工作犬的種類。
+
+###3.柯基犬
+
+![Image]()
 ```markdown
 Syntax highlighted code block
 
