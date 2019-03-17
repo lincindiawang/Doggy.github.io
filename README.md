@@ -2,7 +2,7 @@
 
 1. 黃金獵犬
 
-cba1128de20f0637868e19d30c2c92a6.jpeg
+![Image](cba1128de20f0637868e19d30c2c92a6.jpeg)
 
 ### Markdown
 
