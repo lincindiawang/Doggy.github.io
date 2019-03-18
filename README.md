@@ -10,7 +10,7 @@
 
 ### 2.拉布拉多
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_16.jpg)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7Ra8KH34lnj16rSEU9SLE3tMGAEGltdl-j-9sI6tD7xO70Sb)
 
 又稱為拉布拉多尋回犬。
 
@@ -22,7 +22,7 @@
 
 ### 3.柯基犬
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_mini_18.jpg)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBMF9XmjEYSEl1saDkZT8sMo0jlKGEahu3pgrBZJlDDQ8CUBbVA)
 
 來自英國皇家的威爾斯柯基犬。
 
@@ -32,7 +32,7 @@
 
 ### 4.哈士奇
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_1d.jpg)
+![Image](http://s85.youtaker.com/other/2017/7-28/oth1581817179bab92a33afd4bed828658d97f4a6840850.jpg)
 
 哈士奇快速拉動雪橇的風格與其他雪橇犬不同，所以，『哈士奇』為北方雪橇形的總稱。
 
@@ -42,7 +42,7 @@
 
 ### 5.鬥牛犬
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_1a.jpg)
+![Image](http://link.photo.pchome.com.tw/s08/danny010765/17/128834540822/)
 
 又分為英鬥、法鬥。
 
@@ -50,7 +50,7 @@
 
 ### 6.柴犬
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_mini_13.jpg)
+![Image](https://www.bomb01.com/upload/news/original/584985332f9f30dc0358deb1d86c2a5d.jpg)
 
 來至於日本。
 
