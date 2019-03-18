@@ -2,7 +2,7 @@
 
 ### 1.黃金獵犬
 
-![Image](https://github.com/lincindiawang/Doggy.github.io/blob/master/UNADJUSTEDNONRAW_thumb_14.jpg?raw=true)
+![Image](http://p2.ycw.com/201609/12/cba1128de20f0637868e19d30c2c92a6"width="200" height="100")
 
 為大型獵犬，個性溫馴聽話。
 
